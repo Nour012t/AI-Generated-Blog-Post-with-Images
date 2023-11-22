@@ -3,7 +3,7 @@ import openai
 import requests
 
 # Set your OpenAI GPT-3 API key
-openai.api_key = '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'
+openai.api_key = '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'
 
 # Streamlit app
 st.title("AI-Generated Blog Post with Images")
